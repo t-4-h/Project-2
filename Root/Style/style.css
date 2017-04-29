@@ -1,0 +1,16 @@
+.pure-menu-link {
+  font-size: 100%;
+  color: gray;
+  transition: font-size 0.5s ease-out,
+              color 0.5s ease-in;
+}
+
+.pure-menu-link:hover {
+  cursor: pointer;
+  font-size: 120%;
+  color: black;
+}
+
+p{
+  max-width: 50%;
+}
